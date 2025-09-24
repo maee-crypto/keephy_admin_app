@@ -1,0 +1,118 @@
+
+> admin-app@0.1.0 dev
+> next dev -p 4100
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:4100
+
+ ✓ Starting...
+ ✓ Ready in 3.8s
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:4100
+
+ ✓ Starting...
+ ✓ Ready in 3.8s
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:4100
+
+ ✓ Starting...
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'appDir' at "experimental"
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+ ✓ Ready in 3.2s
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:4100
+
+ ✓ Starting...
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'appDir' at "experimental"
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+ ✓ Ready in 2.9s
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:4100
+
+ ✓ Starting...
+ ✓ Ready in 2.7s
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:4100
+
+ ✓ Starting...
+ ✓ Ready in 3.2s
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 12.2s (689 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /health 404 in 12750ms
+ ✓ Compiled in 896ms (325 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /health 404 in 425ms
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:4100
+
+ ✓ Starting...
+ ✓ Ready in 3.3s
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 6.7s (689 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /health 404 in 7083ms
+ ✓ Compiled in 757ms (325 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /health 404 in 83ms
+   Reload env: .env.local
+ ✓ Compiled in 6.8s (332 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 4.2s (666 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /health 404 in 4676ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /health 404 in 144ms
+ ○ Compiling / ...
+ ✓ Compiled / in 734ms (672 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 1112ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/app_logo.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/business_icon.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/user_icon.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /imgs/app_logo.png 404 in 106ms
+ GET /imgs/business_icon.png 404 in 103ms
+ GET /imgs/user_icon.png 404 in 99ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/business_icon.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /imgs/business_icon.png 404 in 75ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /login 404 in 33ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/app_logo.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/business_icon.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/user_icon.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /imgs/app_logo.png 404 in 77ms
+ GET /imgs/business_icon.png 404 in 49ms
+ GET /imgs/user_icon.png 404 in 49ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /imgs/business_icon.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /imgs/business_icon.png 404 in 51ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 22ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 106ms
+[?25h
